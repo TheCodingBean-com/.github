@@ -24,7 +24,7 @@ Welcome to TheCodingBean's GitHub page! We are a company dedicated to providing 
 
 ## Portfolio
 
-Visit our [Portfolio](https://www.thecodingbean.com/portfolio) page to see our latest projects and clients.
+Visit our [Portfolio](https://www.thecodingbean.com/) page to see our latest projects and clients.
 
 ## Technologies
 
@@ -41,11 +41,9 @@ We work with a wide range of technologies to ensure that we provide the best sol
 
 We'd love to hear about your project and see how we can help you. Please feel free to reach out to us:
 
-* Email: [info@thecodingbean.com](mailto:info@thecodingbean.com)
-* Phone: +1 (555) 123-4567
+* Email: [brew@thecodingbean.com](mailto:brew@thecodingbean.com)
+* Phone: +1 (619) 728-8925
 * Website: [www.thecodingbean.com](https://www.thecodingbean.com/)
-* LinkedIn: [TheCodingBean](https://www.linkedin.com/company/thecodingbean/)
-* Twitter: [@TheCodingBean](https://twitter.com/TheCodingBean)
 
 ## License
 
