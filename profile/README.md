@@ -2,7 +2,7 @@
 
 ![TheCodingBean logo](assets/images/theCodingBeanLogo.png)
 
-Welcome to TheCodingBean's GitHub page! We are a company dedicated to providing top-notch software development and digital design solutions. Our team of skilled developers and creative designers work together to deliver the best user experience and applications tailored to your needs.
+Welcome to TheCodingBean's GitHub page! We are a company dedicated to providing top-notch software development and digital design solutions. Our team of skilled developers and creative designers work together to deliver the best user experience and applications tailored to your needs. -chatgpt
 
 ## Services
 
